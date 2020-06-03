@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Users">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAEAA=</HashCode>
+      <FileName>class.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Admin">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAEAA=</HashCode>
+      <FileName>class.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="exc&lt;T&gt;">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAEAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>class.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SClient">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABEQAAAAAAIAQkAAESAABAQMAAAQEIIAAACAAQAA=</HashCode>
+      <FileName>SClient.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="UserBase">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAEAA=</HashCode>
+      <FileName>class.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="AdminBase">
+    <Position X="7.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAEAA=</HashCode>
+      <FileName>class.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
